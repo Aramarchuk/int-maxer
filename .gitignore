@@ -1,0 +1,18 @@
+# Node.js и сборочные файлы
+node_modules/
+out/
+*.log
+
+# Файлы OS
+.DS_Store
+Thumbs.db
+
+# Файлы TypeScript
+*.tsbuildinfo
+
+# Локальные настройки VS Code
+.vscode/settings.json
+.vscode/tasks.json
+
+# Файлы конфигурации отладки (в зависимости от необходимости)
+.vscode/launch.json
